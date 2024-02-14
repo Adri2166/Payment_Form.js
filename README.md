@@ -18,10 +18,9 @@ You can view a live demo of the Payment Form here.
 Getting Started
 To get a local copy of the project, you can clone the repository:
 
-bash
-Copy code
-git clone <repository-url>
-Replace <repository-url> with the URL of this repository.
+
+git clone [<repository-url>](https://github.com/Adri2166/Payment_Form.js.git)
+
 
 License
 This project is licensed under the MIT License.
